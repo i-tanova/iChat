@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IChat</string>
+    <string name="input_placeholder">Write a message</string>
+</resources>
